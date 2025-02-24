@@ -1,5 +1,5 @@
 ---
-title: "spatialcausal.github.io"
+title: "spatial-causal.org"
 ---
 
 This is a Quarto website.
