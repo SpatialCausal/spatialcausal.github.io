@@ -2,6 +2,13 @@
 title: "spatial-causal.org"
 ---
 
-This is a Quarto website.
+## Welcome to the Spatial-Causal.org community
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This website serves as the crossroad for the spatial-causal.org community, an open, welcoming community of researchers and practitioners interested in Spatial Causal Analysis ( from infernece to discovery, and their applications). 
+
+This resource has emerged from the initial [Dagstuhl seminar] on Causal Inference for Spatial Data Analytics](https://www.dagstuhl.de/24202) in 2024.
+
+## What you will find here
+
+This website will serve pointers to community [events](events.qmd) (seminars, workshops, conferences - please, let us know about anything happening!), it will gather resources and papers - once they emerge, and will list members of the community that may want to be listed (possibly as a resource for interested students seeking PhD supervision).
+
