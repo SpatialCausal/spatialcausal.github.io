@@ -2,7 +2,7 @@
 title: "STCausal@GIScience2025 "
 ---
 
-**2nd International Workshop on Spatiotemporal Causal Analysis (STCausal2025)** 
+**2nd International Workshop on Spatiotemporal Causal Analysis (#STCausal2025)** 
 
 26 August 2025, Christchurch, NZ
 
@@ -12,7 +12,7 @@ title: "STCausal@GIScience2025 "
 
 -	Martin Tomko, The University of Melbourne, tomkom@unimelb.edu.au, @dinomirmt.bsky.social
 -	Cecile de Bezenac, The Alan Turing Institute, University of Leeds / Centre Borelli, ENS Paris-Saclay
--	Grant McKenzie, McGill University
+-	Grant McKenzie, McGill University, grant.mckenzie@mcgill.ca, @grantdmckenzie.bsky.social
 
 
 ## News: 
@@ -58,6 +58,12 @@ We particularly want to attract  participants from GIScience adjacent fields ( s
 ### Highlights
 
 The workshop will convene a panel to discuss the challenges of identifying and measuring spatio-temporal effects in causal analysis. While many typical questions refer more directly to the estimation of such effects, the issues that pertain to the discovery of causal relations should be considered as well.
+
+## Important Dates
+
+-	30th June: Deadline for position papers
+-	15th of July: Acceptance notifications, instructions for participants ( reading, guided questions).
+-	26th of August: Workshop
 
 ## Programme Committee
 
