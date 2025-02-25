@@ -6,9 +6,13 @@ website:
   title: "spatial-causal.org"
   navbar:
     logo: spatcausal.png
+    favicon: spatcausal.png
+    open-graph: true
     left:
       - href: index.qmd
         text: Home
+      - href: posts.qmd
+        text: News
       - events.qmd
       - about.qmd
       - community.qmd

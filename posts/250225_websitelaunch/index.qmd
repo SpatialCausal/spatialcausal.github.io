@@ -1,0 +1,12 @@
+---
+title: "Spatial-causal.org Website launch"
+description: "spatial-causal.org website launch"
+author: Martin Tomko
+date: 25-02-2025
+categories: [web] # self-defined categories
+# citation: 
+#  url: https://spatial-causal.org/ 
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+We are launching the Website of spatial-causal.org as a resource for the community. Spread the word!

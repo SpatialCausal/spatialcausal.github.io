@@ -35,25 +35,11 @@
     "text": "Programme Committee\ntbd."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to the Spatial-Causal.org community",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Welcome to the crossroad for the spatial-causal.org community, an open, informal and welcoming community of researchers and practitioners interested in Spatial Causal Analysis ( from inference to discovery, and their applications).\nThis website will serve pointers to community events (seminars, workshops, conferences - please, let us know about anything happening!), it will gather resources and papers - once they emerge, and will list members of the community that may want to be listed (possibly as a resource for interested students seeking PhD supervision).\nWe hope that the community will, in time, be bale to gather multiple times a year at conferences covering both GIScience/geographical analysis (GIScience, ACM SIGSPATIAL)\nThis website is administered by Martin Tomko, The University of Melbourne, admin@spatial-causal.org"
-  },
-  {
-    "objectID": "community.html",
-    "href": "community.html",
-    "title": "Community",
-    "section": "",
-    "text": "Martin Tomko, The University of Melbourne (spatial-causal.org admin), @dinomirmt.bsky.social\nYannan Xin, TU Delft"
-  },
-  {
-    "objectID": "community.html#members-of-the-spatial-causal-community",
-    "href": "community.html#members-of-the-spatial-causal-community",
-    "title": "Community",
-    "section": "",
-    "text": "Martin Tomko, The University of Melbourne (spatial-causal.org admin), @dinomirmt.bsky.social\nYannan Xin, TU Delft"
+    "text": "This community has emerged from the initial [Dagstuhl seminar] (https://www.dagstuhl.de/24202) on Causal Inference for Spatial Data Analytics in 2024. It serves researchers and industry practitioners who share interest in causal inference and discovery (aka analysis) and are interested to explore how space (or geography) challenges assumptions and methodological approaches in causal analysis. We are interested in spatial confounding, the role of spatial autocorrelation between units (on treatments, effects, and covariates), and in practical aspects how to undertake spatial casual analysis.\nTo support systematic causal consideration in the diverse disciplines that deal with spatial concepts, incl. Earth science, epidemiology, transportation, urban planning, and economics, and statistics, by establishing a common conceptual, terminological, and methodological foundation that will bring these communities together in the first place by centering the spatial nature of data, and the understanding of their generation through geographical processes.\nThe terminology and methods that have emerged in causal inference is currently always, to an extent, alien to at least part of the community. We have the ambition to serve as a bridge between these disciplines, provide a platform for discussions, and share resources, tools and tutorials."
   },
   {
     "objectID": "events.html",
@@ -77,10 +63,45 @@
     "text": "Past\n\nSTCausal@SIGSPATIAL2024: 1st ACM SIGSPATIAL International Workshop on Spatiotemporal Causal Analysis (STCausal2024), October 29th, 2024 in Atlanta, GA, USA\nFirst event: Dagstuhl seminar on Causal Inference for Spatial Data Analytics"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/250225_stcausal2025/index.html",
+    "href": "posts/250225_stcausal2025/index.html",
+    "title": "Announcing STCausal@GIScience2025",
     "section": "",
-    "text": "This community has emerged from the initial [Dagstuhl seminar] (https://www.dagstuhl.de/24202) on Causal Inference for Spatial Data Analytics in 2024. It serves researchers and industry practitioners who share interest in causal inference and discovery (aka analysis) and are interested to explore how space (or geography) challenges assumptions and methodological approaches in causal analysis. We are interested in spatial confounding, the role of spatial autocorrelation between units (on treatments, effects, and covariates), and in practical aspects how to undertake spatial casual analysis.\nTo support systematic causal consideration in the diverse disciplines that deal with spatial concepts, incl. Earth science, epidemiology, transportation, urban planning, and economics, and statistics, by establishing a common conceptual, terminological, and methodological foundation that will bring these communities together in the first place by centering the spatial nature of data, and the understanding of their generation through geographical processes.\nThe terminology and methods that have emerged in causal inference is currently always, to an extent, alien to at least part of the community. We have the ambition to serve as a bridge between these disciplines, provide a platform for discussions, and share resources, tools and tutorials."
+    "text": "We are delighted to announce the STCausal@GIScience2025 workshop, to be held in conjunction with GIScience2025 on the 26 August 2025, in Christchurch, NZ.\nCheck the scope, call for participation, and please, share the word!"
+  },
+  {
+    "objectID": "community.html",
+    "href": "community.html",
+    "title": "Community",
+    "section": "",
+    "text": "Martin Tomko, The University of Melbourne (spatial-causal.org admin), @dinomirmt.bsky.social\nYannan Xin, TU Delft"
+  },
+  {
+    "objectID": "community.html#members-of-the-spatial-causal-community",
+    "href": "community.html#members-of-the-spatial-causal-community",
+    "title": "Community",
+    "section": "",
+    "text": "Martin Tomko, The University of Melbourne (spatial-causal.org admin), @dinomirmt.bsky.social\nYannan Xin, TU Delft"
+  },
+  {
+    "objectID": "posts/250225_websitelaunch/index.html",
+    "href": "posts/250225_websitelaunch/index.html",
+    "title": "Spatial-causal.org Website launch",
+    "section": "",
+    "text": "We are launching the Website of spatial-causal.org as a resource for the community. Spread the word!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the Spatial-Causal.org community",
+    "section": "",
+    "text": "Welcome to the crossroad for the spatial-causal.org community, an open, informal and welcoming community of researchers and practitioners interested in Spatial Causal Analysis ( from inference to discovery, and their applications).\nThis website will serve pointers to community events (seminars, workshops, conferences - please, let us know about anything happening!), it will gather resources and papers - once they emerge, and will list members of the community that may want to be listed (possibly as a resource for interested students seeking PhD supervision). Do not fogrget to check the News tab for any updates and changes.\nWe hope that the community will, in time, be bale to gather multiple times a year at conferences covering both GIScience/geographical analysis (GIScience, ACM SIGSPATIAL)\nThis website is administered by Martin Tomko, The University of Melbourne, admin@spatial-causal.org"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Spatial-Causal News",
+    "section": "",
+    "text": "Announcing STCausal@GIScience2025\n\n\n\n\n\n\nevents\n\n\nstcausal2025\n\n\n\nAnnouncing STCausal@GIScience2025 on the 26 August 2025, in Christchurch, NZ\n\n\n\n\n\nJan 2, 2027\n\n\nMartin Tomko\n\n\n\n\n\n\n\n\n\n\n\n\nSpatial-causal.org Website launch\n\n\n\n\n\n\nweb\n\n\n\nspatial-causal.org website launch\n\n\n\n\n\nJan 2, 2027\n\n\nMartin Tomko\n\n\n\n\n\n\nNo matching items"
   }
 ]

@@ -1,0 +1,14 @@
+---
+title: "Announcing STCausal@GIScience2025"
+description: "Announcing STCausal@GIScience2025 on the 26 August 2025, in Christchurch, NZ"
+author: Martin Tomko
+date: 25-02-2025
+categories: [events,stcausal2025] # self-defined categories
+# citation: 
+#  url: https://stcausal2025.spatial-causal.org/ 
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+We are delighted to announce the [STCausal@GIScience2025](https://stcausal2025.spatial-causal.org/) workshop, to be held in conjunction with [GIScience2025](https://giscience2025.org/) on the 26 August 2025, in Christchurch, NZ.
+
+Check the scope, call for participation, and please, share the word!
