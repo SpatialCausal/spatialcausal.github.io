@@ -1,0 +1,8 @@
+---
+title: "Community"
+---
+
+## Members of the spatial-causal community
+
+- Martin Tomko, The University of Melbourne (spatial-causal.org admin), @dinomirmt.bsky.social
+- Yannan Xin, TU Delft

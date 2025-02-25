@@ -49,6 +49,20 @@
     "text": "What you will find here\nThis website will serve pointers to community events (seminars, workshops, conferences - please, let us know about anything happening!), it will gather resources and papers - once they emerge, and will list members of the community that may want to be listed (possibly as a resource for interested students seeking PhD supervision)."
   },
   {
+    "objectID": "community.html",
+    "href": "community.html",
+    "title": "Community",
+    "section": "",
+    "text": "Martin Tomko, The University of Melbourne (spatial-causal.org admin), @dinomirmt.bsky.social\nYannan Xin, TU Delft"
+  },
+  {
+    "objectID": "community.html#members-of-the-spatial-causal-community",
+    "href": "community.html#members-of-the-spatial-causal-community",
+    "title": "Community",
+    "section": "",
+    "text": "Martin Tomko, The University of Melbourne (spatial-causal.org admin), @dinomirmt.bsky.social\nYannan Xin, TU Delft"
+  },
+  {
     "objectID": "events.html",
     "href": "events.html",
     "title": "Events",
@@ -74,6 +88,6 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "This community has emerged from the initial [Dagstuhl seminar] on Causal Inference for Spatial Data Analytics](https://www.dagstuhl.de/24202) in 2024. It serves researchers and industry practitioners who share interest in causal inference and discovery (aka analysis) and are interested to explore how space (or geography) challenges assumptions and methodological approaches in causal analysis. We are interested in spatial confounding, the role of spatial autocorrelation between units (on treatments, effects, and covariates), and in practical aspects how to undertake spatial casual analysis.\nThe terminology that emerged in causal inference is, to a large extent, alien to much of the GIScience community, for instance, and is also disparate between researchers comming from (spatial) epidemiology vs those arriving from, (spatial) economics. Other domains considering spatial causal analysis may include geoscientists and Earth scientists, meteorologists, transportantion engineers, demographers. We have the ambition to serve as a bridge between these communities, provide a platform for discussions, and share resources, tools and tutorials."
   }
 ]
