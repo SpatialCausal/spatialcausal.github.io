@@ -10,6 +10,4 @@ title: "Events"
 
 - [STCausal@SIGSPATIAL2024](https://bdal.umbc.edu/stcausal-2024/): 1st ACM SIGSPATIAL International Workshop on Spatiotemporal Causal Analysis (STCausal2024), October 29th, 2024 in Atlanta, GA, USA
 
-October 29th, 2024 in Atlanta, GA, USA
-
 - [First event: Dagstuhl seminar on Causal Inference for Spatial Data Analytics](https://www.dagstuhl.de/24202)
