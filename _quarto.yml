@@ -10,6 +10,8 @@ website:
         text: Home
       - events.qmd
       - about.qmd
+      - href: stcausal-2025/index.qmd
+        text: STCausal2025
 
 format:
   html:
