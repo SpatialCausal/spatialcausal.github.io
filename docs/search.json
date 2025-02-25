@@ -1,10 +1,31 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "stcausal-2025/index.html",
+    "href": "stcausal-2025/index.html",
+    "title": "STCausal@GIScience2025",
     "section": "",
-    "text": "About this site"
+    "text": "2nd International Workshop on Spatiotemporal Causal Analysis (STCausal2025)\n26 August 2025, Christchurch, NZ\nOrganisers:"
+  },
+  {
+    "objectID": "stcausal-2025/index.html#news",
+    "href": "stcausal-2025/index.html#news",
+    "title": "STCausal@GIScience2025",
+    "section": "News:",
+    "text": "News:\n\n25/02/2025 Workshop accepted: We are delighted to announce that our workshop has been accepted as part of the Workshop programme of GIScience 2025.\n\nStay tunned for more information"
+  },
+  {
+    "objectID": "stcausal-2025/index.html#call-for-participation",
+    "href": "stcausal-2025/index.html#call-for-participation",
+    "title": "STCausal@GIScience2025",
+    "section": "Call for Participation",
+    "text": "Call for Participation"
+  },
+  {
+    "objectID": "stcausal-2025/index.html#organisers",
+    "href": "stcausal-2025/index.html#organisers",
+    "title": "STCausal@GIScience2025",
+    "section": "Organisers",
+    "text": "Organisers\ntbd."
   },
   {
     "objectID": "index.html",
@@ -12,5 +33,33 @@
     "title": "spatial-causal.org",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "STCausal@GIScience2025: 2nd International Workshop on Spatiotemporal Causal Analysis (STCausal2025), 26 August 2025, Christchurch, NZ"
+  },
+  {
+    "objectID": "events.html#forthcoming",
+    "href": "events.html#forthcoming",
+    "title": "Events",
+    "section": "",
+    "text": "STCausal@GIScience2025: 2nd International Workshop on Spatiotemporal Causal Analysis (STCausal2025), 26 August 2025, Christchurch, NZ"
+  },
+  {
+    "objectID": "events.html#past",
+    "href": "events.html#past",
+    "title": "Events",
+    "section": "Past",
+    "text": "Past\n\nSTCausal@SIGSPATIAL2024: 1st ACM SIGSPATIAL International Workshop on Spatiotemporal Causal Analysis (STCausal2024), October 29th, 2024 in Atlanta, GA, USA\n\nOctober 29th, 2024 in Atlanta, GA, USA\n\nFirst event: Dagstuhl seminar on Causal Inference for Spatial Data Analytics"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]

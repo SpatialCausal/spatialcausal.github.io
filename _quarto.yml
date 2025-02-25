@@ -8,12 +8,14 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - events.qmd
       - about.qmd
 
 format:
   html:
     theme: spacelab
-    
+    css: styles.css
+    toc: true
 
 
 
