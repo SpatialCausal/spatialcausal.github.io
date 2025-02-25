@@ -6,6 +6,8 @@ title: "STCausal@GIScience2025 "
 
 26 August 2025, Christchurch, NZ
 
+**Format of workshop**: half day
+
 **Organisers:**
 
 -	Martin Tomko, The University of Melbourne, tomkom@unimelb.edu.au, @dinomirmt.bsky.social
@@ -21,6 +23,42 @@ title: "STCausal@GIScience2025 "
 
 ## Call for Participation
 
-## Organisers
+### Scope
 
-tbd.
+Causal analysis, including causal discovery, causal inference and causal representation learning, is fundamental to understanding the behaviors of a natural and societal system, and for our ability to design and target interventions on such systems. The majority of spatial sciences and spatial statistical research has focused on descriptive or predictive (forecasting) objectives, shielding away from making causal claims, and therefore also from methodological efforts that are required by explicit causal interpretation of results. Furthermore, classical causal approaches make strong assumptions about the I.I.D nature of the data, the consistency of exposures, or the exchangeability of observations – all of which may very likely be violated in spatial contexts.
+
+We invite researchers interested in the ability to make causal claims based on analyses in spatial disciplines incl. Earth science, epidemiology, transportation, urban planning, and economics, interested in forming a shared conceptual, terminological, and methodological understanding of spatial causal analysis and methods to communicate outcomes of causal analysis to the public to a seminar at GIScience 2025.
+
+This workshop is a part of a concerted effort triggered by a Dagstuhl Seminar on Causal Inference for Spatial Data Analytics in 2024 to build a community around spatial causal analysis. Our objective is to convene a diverse group of researchers and practitioners that contribute to spatial causal research, a field that has only started to emerge of its own. 
+
+### Position Statements
+
+We are **seeking short position statements** (max two page, GIScience/LIPICS formatting) position  statements to address the above topics in spatial causal analysis, as a starting point to a discussion that will result in an effort to synthesize, and articulate a joint position/vision paper.
+
+Position statements will be assessed for topical fit by the Programme Committee, and circulated amongst workshop participants prior to the event and posted on the workshop website.  During the workshop, participants will present their position statements during a lightning talk session where each participant is given 3-5 minutes to present their topic of interest or relevant work.
+
+We particularly want to attract  participants from GIScience adjacent fields ( spatial epidemiology, transport, spatial economics and housing research, spatial data visualisation), and from industry where causal inference is applied and its geographical components are likely to be of interest (e.g., real estate, rentals, ride sharing and on-demand mobility) to participate.
+
+**Topics**:
+
+1.	Conceptual foundations of spatial causal inference
+2.	Statistical approaches to spatial inference
+3.	Spatial causal discovery
+4.	Shared datasets and case-studies for causal discovery
+5.	Synthetic datasets for testing spatial methods
+6.	Counterfactual claims in spatial systems
+7.	From descriptions of spatial processes to causal interventions
+8.	Impact of sampling, measurement sensitivity and data uncertainty, 
+9.	generalizability of spatial causal claims
+10.	Visualisation and communication about statistical causal claims, treatment effects, and confounders
+11.	Spatial causal toolbox
+12.	Applications of spatial casual inference, incl in industry
+13.	Spatial causal community
+
+### Highlights
+
+The workshop will convene a panel to discuss the challenges of identifying and measuring spatio-temporal effects in causal analysis. While many typical questions refer more directly to the estimation of such effects, the issues that pertain to the discovery of causal relations should be considered as well.
+
+## Programme Committee
+
+*tbd.*
