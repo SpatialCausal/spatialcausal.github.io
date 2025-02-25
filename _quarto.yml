@@ -5,6 +5,7 @@ project:
 website:
   title: "spatial-causal.org"
   navbar:
+    logo: spatcausal.png
     left:
       - href: index.qmd
         text: Home
