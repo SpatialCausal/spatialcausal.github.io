@@ -14,6 +14,7 @@ title: "STCausal@GIScience2025 "
 -	Cecile de Bezenac, The Alan Turing Institute, University of Leeds / Centre Borelli, ENS Paris-Saclay
 -	Grant McKenzie, McGill University, grant.mckenzie@mcgill.ca, @grantdmckenzie.bsky.social
 
+*Please, address any questions to Martin*
 
 ## News: 
 
@@ -33,9 +34,9 @@ This workshop is a part of a concerted effort triggered by a Dagstuhl Seminar on
 
 ### Position Statements
 
-We are **seeking short position statements** (max two page, GIScience/LIPICS formatting) position  statements to address the above topics in spatial causal analysis, as a starting point to a discussion that will result in an effort to synthesize, and articulate a joint position/vision paper.
+We are **seeking short position statements** (max two page, standard Springer formatting for simplicity and consistency) position  statements to address the above topics in spatial causal analysis, as a starting point to a discussion that will result in an effort to synthesize, and articulate a joint position/vision paper.
 
-Position statements will be assessed for topical fit by the Programme Committee, and circulated amongst workshop participants prior to the event and posted on the workshop website.  During the workshop, participants will present their position statements during a lightning talk session where each participant is given 3-5 minutes to present their topic of interest or relevant work.
+Position statements will be assessed for topical fit by the Programme Committee, and circulated amongst workshop participants prior to the event and posted on the workshop website (CC BY 4.0 license).  During the workshop, participants will present their position statements during a lightning talk session where each participant is given 3-5 minutes to present their topic of interest or relevant work.
 
 We particularly want to attract  participants from GIScience adjacent fields ( spatial epidemiology, transport, spatial economics and housing research, spatial data visualisation), and from industry where causal inference is applied and its geographical components are likely to be of interest (e.g., real estate, rentals, ride sharing and on-demand mobility) to participate.
 
@@ -64,6 +65,10 @@ The workshop will convene a panel to discuss the challenges of identifying and m
 -	30th June: Deadline for position papers
 -	15th of July: Acceptance notifications, instructions for participants ( reading, guided questions).
 -	26th of August: Workshop
+
+## Submissions
+
+Submissions are via [OpenReview](https://openreview.net/) - to be opened soon. The submitting authors must have an OpenReview profile.
 
 ## Programme Committee
 

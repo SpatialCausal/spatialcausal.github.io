@@ -8,5 +8,7 @@ title: "Community"
 - Ass. Prof. Yannan Xin, TU Delft, Netherlands, [website](https://www.tudelft.nl/en/staff/yanan.xin/?cHash=9fc168b0145916b6d8d21355a353a4b7)
 - Assoc. Prof. Shu Yang, North Carolina State University, [website](https://shuyang.wordpress.ncsu.edu/)
 - Assoc. Prof. Andrew Zammit Mangion, University of Wollongong, Australia, [website](https://scholars.uow.edu.au/andrew-zammit-mangion)
-- Assoc. Prof Katerina Sindlerova, University of Vienna, Austria, [website](https://ucrisportal.univie.ac.at/en/persons/katerina-schindlerova)
+- Assoc. Prof. Katerina Sindlerova, University of Vienna, Austria, [website](https://ucrisportal.univie.ac.at/en/persons/katerina-schindlerova)
 - Cecile de Bezenac, The Alan Turing Institute, University of Leeds / Centre Borelli, ENS Paris-Saclay, [website](https://centreborelli.ens-paris-saclay.fr/fr/annuaire-des-personnes/cecile-de-bezenac)
+- Assoc. Prof. Kevin Credit, National Centre for Geocomputation, Maynooth University, [website](https://kevincredit.com/)
+- Prof. Jianwu Wang, University of Maryland, [website](https://bdal.umbc.edu/people/jianwu/)
