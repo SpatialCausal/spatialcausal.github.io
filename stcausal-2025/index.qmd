@@ -68,7 +68,9 @@ The workshop will convene a panel to discuss the challenges of identifying and m
 
 ## Submissions
 
-Submissions are via [OpenReview](https://openreview.net/) - to be opened soon. The submitting authors must have an OpenReview profile.
+Submissions are via [OpenReview](https://openreview.net/group?id=giscience.org/GIScience/2025/Workshop/STCausal). All submitting authors must have an OpenReview profile.
+
+Accepted position statement submissions will be published as in a workshop volume through OSF.io (incl. a DOI).
 
 ## Programme Committee
 
