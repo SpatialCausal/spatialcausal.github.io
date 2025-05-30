@@ -14,7 +14,7 @@ title: "STCausal@GIScience2025 "
 -	Cecile de Bezenac, The Alan Turing Institute, University of Leeds / Centre Borelli, ENS Paris-Saclay
 -	Grant McKenzie, McGill University, grant.mckenzie@mcgill.ca, @grantdmckenzie.bsky.social
 
-*Please, address any questions to Martin*
+*Please, address any questions to [Martin](mailto:tomkom@unimelb.edu.au)*
 
 ## News: 
 
