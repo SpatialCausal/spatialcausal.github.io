@@ -78,3 +78,4 @@ Kevin Credit, Maynooth University
 Andrew Zammit Mangion, University of Wollongong
 Dan Qiang, McGill University
 Yanan Xin, TU Delft
+Sumantrak Mukherjee, German Research Center for Artificial Intelligence (DFKI)
