@@ -47,11 +47,11 @@ title: "STCausal@GIScience2025 "
 3. What kind or resources, tools, or research would help you (or others) engage more with causal analysis in spatial contexts?
 4. What provocative ideas, critiques or challenges would you like to raise for the panel and the larger workshop to consider?
 
-### Panel (Chair: Grant McKenzie):
+### Round table (Chair: Grant McKenzie):
 
 *Responses to breakout group notes summarised by Grant.*
 
-*Panel tbc* <!--
+<!-- *Panel tbc*
 1. Auriol Degbelo
 2. Martin Tomko
 3. Judith Verstegen (Simulation)
